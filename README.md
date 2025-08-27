@@ -18,7 +18,7 @@ A simple **JavaScript Quiz App** with a timer and high-score tracking. Test your
 
 ## Demo
 
-![Quiz App Screenshot](https://raw.githubusercontent.com/Bipul-dev01/Quiz-App/main/images/quiz-screenshot.png)
+![Quiz App Screenshot](https://github.com/Bipul-dev01/Quiz-App/blob/4269e2ccc9dd7631b2d301204adcb9fdce781360/images/quiz-screenshot.png.png)
 
 ---
 
